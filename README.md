@@ -1,11 +1,8 @@
-# Imdb-Score-Predictor_ML
+# IMDb Score Predictor
 
 ## About
-A machine learning application developed in Python that I built for my "Introduction to AI" course. It's purpose is to create and train a model that can predict an IMDb score based on a set of inputs variables provided by the user via a GUI (created using tkinter). User also has the ability to view model stats and graphs via the GUI. RF was the chosen model after testing stat results across linear regression, standard DT, and neural networks.
+A machine learning application that predicts IMDb scores based on provided movie attributes like budget, genre, and runtime via an interactive tkinter GUI. Users can either input their own movie information, or select to have one randomly chosen and auto-filled from a provided testset.
 
-TODO: optimize, modularize, and clean current repo code (reason: this is an older version of the final program.)
-
-TODO: update readme
 
 <img width="377" alt="PY_Home" src="https://github.com/user-attachments/assets/c39dd485-956d-4868-bdba-66381f3705ea">\
 <img width="624" alt="PY_Predict-with-Random" src="https://github.com/user-attachments/assets/bdc13cbb-c2a5-4c23-a88c-708103e30f83">\
